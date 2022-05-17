@@ -1,8 +1,9 @@
 # Ecosystem-Services-Valuation
 
-Project from the Coursera MOOC on Ecosystem Services Valuation of the University of Geneva. 
+On going project from the Coursera MOOC on Ecosystem Services Valuation of the University of Geneva, using InVest models and tools, as well as QGIS. Will be updated soon.
 
 Structure of the Project: 
-- All data go in the `data` directory. 
-- All codes go in the `codes`directory.
-- Other documents go in the `documentation` directory. 
+- All data will go in the `data` directory. 
+- All codes will go in the `codes`directory.
+- Other documents will go in the `documentation` directory. 
+
